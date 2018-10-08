@@ -1,6 +1,5 @@
 maito
-Lisää kaljaa
-makkaraa
+
 kinkku
 juusto
 jauheliha
